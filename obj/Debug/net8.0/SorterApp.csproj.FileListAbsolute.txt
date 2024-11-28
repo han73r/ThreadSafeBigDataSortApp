@@ -1,0 +1,14 @@
+C:\Users\han73r\source\repos\SorterApp\bin\Debug\net8.0\SorterApp.exe
+C:\Users\han73r\source\repos\SorterApp\bin\Debug\net8.0\SorterApp.deps.json
+C:\Users\han73r\source\repos\SorterApp\bin\Debug\net8.0\SorterApp.runtimeconfig.json
+C:\Users\han73r\source\repos\SorterApp\bin\Debug\net8.0\SorterApp.dll
+C:\Users\han73r\source\repos\SorterApp\bin\Debug\net8.0\SorterApp.pdb
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.AssemblyInfoInputs.cache
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.AssemblyInfo.cs
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.csproj.CoreCompileInputs.cache
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.dll
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\refint\SorterApp.dll
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.pdb
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\SorterApp.genruntimeconfig.cache
+C:\Users\han73r\source\repos\SorterApp\obj\Debug\net8.0\ref\SorterApp.dll
